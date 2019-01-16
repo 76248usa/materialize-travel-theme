@@ -7,4 +7,21 @@
 
 .section-follow .fa-4x {
   margin: 10px 20px !important;
+  color: #ff5a09;
 }
+.section-follow {
+  background: black;
+}
+.brand-logo span {
+  background-color: #ff5a09;
+}
+.section-icons i {
+  color: #ff5a09;
+}
+
+/* nav {
+  background-color: transparent !important;
+}
+.slider {
+  margin-top: -70px;
+} */
